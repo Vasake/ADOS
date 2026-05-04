@@ -1,0 +1,24 @@
+Ulazna slika:		Dimenzije:		Velicina ulazne[KiB]		Velicina izlazne[KiB]
+
+baboon.bmp		512x512			768.1				49.8
+Birthday.bmp		800x600			1370				30.5
+Birthday2.jpg		800x600			87.9				30.1
+CatWithGreenEyes.png	1024x1024		2160				103.6
+green_cat.jpg		604x488			65.9				32.6
+playing_kitten.jpg	960x640			246.2				90.2
+
+Originalna slika je Birthday.bmp dimenzija 800x600 i pocetne velicine 1370 KiB
+
+Kvalitet(zaokruzeno):	Velicina izlazne slike[KiB]
+
+1			9.61
+10			14.3
+20			19.6
+30			23.4
+40			27.5
+50			30.5
+60			33.7
+70			40.2
+80			49.4
+90			71.4
+100			202.5
